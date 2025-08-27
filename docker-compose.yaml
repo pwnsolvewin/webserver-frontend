@@ -1,0 +1,6 @@
+services:
+  frontend:
+    image: theycallmebeo/frontend:latest
+    ports:
+      - "80:80"
+
